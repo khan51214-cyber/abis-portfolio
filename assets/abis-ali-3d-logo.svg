@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+<title id="title">Abis Ali Digital Skills Logo</title><desc id="desc">Three-dimensional violet and cyan emblem combining research, analytics growth bars and web code symbols.</desc>
+<defs>
+ <linearGradient id="front" x1="20" y1="12" x2="132" y2="145" gradientUnits="userSpaceOnUse"><stop stop-color="#c4b5fd"/><stop offset=".48" stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/></linearGradient>
+ <linearGradient id="side" x1="32" y1="30" x2="143" y2="145" gradientUnits="userSpaceOnUse"><stop stop-color="#5b21b6"/><stop offset="1" stop-color="#164e63"/></linearGradient>
+ <linearGradient id="glass" x1="30" y1="18" x2="105" y2="105" gradientUnits="userSpaceOnUse"><stop stop-color="#ecfeff"/><stop offset=".45" stop-color="#a5f3fc"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="170%" height="180%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<ellipse cx="79" cy="143" rx="48" ry="9" fill="#020617" opacity=".55" filter="url(#shadow)"/>
+<!-- dimensional base -->
+<path d="M25 38 88 12l48 27v75l-63 31-48-28Z" fill="#020617" opacity=".65" transform="translate(5 7)"/>
+<path d="M25 35 88 9l48 27v75l-63 31-48-28Z" fill="url(#side)" stroke="#67e8f9" stroke-opacity=".55" stroke-width="2"/>
+<path d="M25 35 88 9l48 27-63 27Z" fill="#ddd6fe" opacity=".24"/>
+<path d="M73 63 136 36v75l-63 31Z" fill="#0e7490" opacity=".45"/>
+<path d="M34 42 88 20l38 21-54 22Z" fill="url(#front)" stroke="#e0f2fe" stroke-opacity=".65" stroke-width="1.5"/>
+<!-- magnifier -->
+<circle cx="65" cy="66" r="24" fill="#0b1120" opacity=".5" transform="translate(3 4)"/>
+<circle cx="62" cy="63" r="24" fill="none" stroke="url(#glass)" stroke-width="8"/>
+<path d="m79 81 18 19" stroke="#cffafe" stroke-width="11" stroke-linecap="round"/>
+<path d="m79 81 18 19" stroke="#0891b2" stroke-width="5" stroke-linecap="round"/>
+<!-- rising analytics bars -->
+<path d="M91 62h8v17h-8zM103 52h8v27h-8zM115 42h8v37h-8z" fill="#cffafe" opacity=".95"/>
+<path d="m90 55 13-9 9 2 12-13" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m117 35 7 0-1 7" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+<!-- code marks -->
+<path d="m43 104-9 8 9 8M61 104l9 8-9 8" fill="none" stroke="#e0e7ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m53 124 7-24" stroke="#67e8f9" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="119" cy="100" r="4" fill="#fff" opacity=".9"/>
+</svg>
